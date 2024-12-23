@@ -256,7 +256,7 @@ class TorchTrainingLoop:
         self,
         train_loader:DataLoader,
         val_loader:DataLoader,
-        wandb_proj:str="",
+        wandb_proj:str="NEW",
         wandb_config:Dict={},
         wandb_name:Optional[str] = None,
         wandb_grp:Optional[str] = None,
