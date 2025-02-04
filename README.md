@@ -8,6 +8,11 @@ root/
 ├── robotic_behavioral_cloning.ipynb    # Jupyter notebook containing code and analysis
 ├── src/comp0188_cw2/ # Folder containing helper functions and source code to execute notebook
 ```
+
+## Data Source
+
+Download the data for the project from here: https://drive.usercontent.google.com/download?id=1tVSilmXhyQd8gxZAEhvKMnynw0qzRFSZ&authuser=0. More information on the dataset can be found at: https://github.com/clvrai/clvr_jaco_play_dataset?tab=readme-ov-file.
+
 ## Notes
 - This repository showcases my approach to solving the coursework problems.
 - Original coursework-related details (e.g., specific instructions and rubric) have been removed for professional presentation.
