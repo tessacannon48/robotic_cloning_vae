@@ -15,10 +15,10 @@ Download the data for the project from here: https://drive.usercontent.google.co
 
 ## Notes
 - This repository showcases my approach to solving the coursework problems.
-- Original coursework-related details (e.g., specific instructions and rubric) have been removed for professional presentation.
+- Original coursework-related details (e.g., specific instructions and rubric) have been removed. 
   
 ## License
-This project is for educational purposes and should not be used for commercial purposes. Helper functions in comp0188_cw2/ were provided as part of the coursework and are not my original work.
+This project is for educational purposes and should not be used for commercial purposes. Helper functions in src/comp0188_cw2/ were provided as part of the coursework and are not my original work.
 
 ---
 
