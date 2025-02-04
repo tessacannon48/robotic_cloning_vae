@@ -6,7 +6,7 @@ This repository contains my completed coursework for Deep Representations and Le
 root/
 ├── README.md         # This file
 ├── robotic_behavioral_cloning.ipynb    # Jupyter notebook containing code and analysis
-├── comp0188_cw2/ # Folder containing helper functions and source code to execute notebook
+├── src/comp0188_cw2/ # Folder containing helper functions and source code to execute notebook
 ```
 ## Notes
 - This repository showcases my approach to solving the coursework problems.
